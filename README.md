@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...automating pentets against a very advanced adversary!
 - 💬 Ask me about ...anything! 
 - 📫 How to reach me: ...jgopssec@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...He, His, and Him.
 - ⚡ Fun fact: ...I once met one of the presidents of the United States in his birthday suit! 
 -->
